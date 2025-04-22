@@ -1,0 +1,28 @@
+.color-example {
+    color: blue; /* Lempiväri */
+    background-color: #f0e68c; /* Kontrastiväri */
+    border: 2px solid red; /* Reunan väri ja paksuus, oikein värikäs */
+}
+
+.header-example {
+    font-size: 2em;
+    font-family: Arial, sans-serif;
+    color: green;
+}
+
+.list-example {
+    list-style-type: square;
+    color: purple; 
+}
+
+.text-example {
+    font-family: 'Courier New', monospace; 
+    font-size: 1.5em;
+    text-transform: capitalize; 
+    text-decoration: underline; 
+}
+
+.div-example {
+    background-color: #add8e6; 
+    border: 3px dashed black; 
+}
